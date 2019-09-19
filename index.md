@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BERIST/BERIST.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BERIST/BERIST.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# BERIST: BBR-powered Efficient and Robust Internet Speed Test for End Users
+### Introduction
+Web-based speed test systems (STSes) such as SpeedTest:net are extremely popular. In this paper, we conduct a comprehensive measurement study of commercial STSes, finding that their reported speed is oftentimes inaccurate/ inconsistent, that their test duration is typically 10+ seconds, and that their consumed network traffic can reach hundreds of MBs over a high-speed access link. We also carefully reverse-engineer their speed test logic, whose many design decisions are found to be ad-hoc and non-adaptive. Motivated by the above findings, we design and implement BERIST, a novel STS solution that innovates web-based STSes by strategically leveraging the emerging BBR congestion control to provide accurate, robust, and bandwidth-efficient speed test. BERIST is further boosted by several important optimizations such as intelligent sampling, data-driven test server selection, and adaptive multi-homing. Real-world tests including those conducted on commercial 5G networks show that BERIST significantly outperforms existing STSes in accuracy, duration, and data usage under the same server pool size. In addition, using only 30 test servers, BERIST achieves similar accuracy compared to SpeedTest:net that employs 8,800 test servers, while incurring 4.3 shorter duration and 10.7 less data usage.
+<br/>
