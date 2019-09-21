@@ -8,6 +8,19 @@ Real-world tests including those conducted on commercial 5G networks show that B
 
 <br/>
 
+### Client Side of RIST System We Built
+
+<style>
+table th:nth-of-type(1) {
+    width: 150px;
+    max-width:150px;
+    min-width:150px;
+}
+</style>
+
+|STS|Implementation|
+|:----:|------|
+|BERIST|[https://github.com/BERIST/BERIST.github.io/tree/master/BERIST/](https://github.com/BERIST/BERIST.github.io/tree/master/BERIST/)|
 
 ### Other Systems We Implemented
 
@@ -20,6 +33,6 @@ Real-world tests including those conducted on commercial 5G networks show that B
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/client-XFinity/](https://github.com/BERIST/BERIST.github.io/tree/master/client-XFinity/)|
 |FAST|[https://fast.com](https://fast.com)|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/client-Fast.com/](https://github.com/BERIST/BERIST.github.io/tree/master/client-Fast.com/)|
 |SpeedTest|[https://speedtest.net](https://speedtest.net)|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/client-SpeedTest.net/](https://github.com/BERIST/BERIST.github.io/tree/master/client-SpeedTest.net/)|
-|Server Side|[-]|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/serverScripts/](https://github.com/BERIST/BERIST.github.io/tree/master/serverScripts/)|
+|Server Side| |[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/serverScripts/](https://github.com/BERIST/BERIST.github.io/tree/master/serverScripts/)|
 
 
