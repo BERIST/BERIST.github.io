@@ -9,7 +9,7 @@ Real-world tests including those conducted on commercial 5G networks show that B
 <br/>
 
 
-### Client Sides of Other Systems We Implemented
+### Other Systems We Implemented
 
 |STS|Website|Our Implementation|
 |:----:|------|------|
@@ -20,4 +20,6 @@ Real-world tests including those conducted on commercial 5G networks show that B
 |Xfinity|[http://speedtest.xfinity.com/](http://speedtest.xfinity.com)|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/client-XFinity/](https://github.com/BERIST/BERIST.github.io/tree/master/client-XFinity/)|
 |FAST|[https://fast.com](https://fast.com)|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/client-Fast.com/](https://github.com/BERIST/BERIST.github.io/tree/master/client-Fast.com/)|
 |SpeedTest|[https://speedtest.net](https://speedtest.net)|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/client-SpeedTest.net/](https://github.com/BERIST/BERIST.github.io/tree/master/client-SpeedTest.net/)|
+|Server Side|[-]|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/serverScripts/](https://github.com/BERIST/BERIST.github.io/tree/master/serverScripts/)|
+
 
