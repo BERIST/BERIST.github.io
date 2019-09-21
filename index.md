@@ -8,7 +8,7 @@ Real-world tests including those conducted on commercial 5G networks show that B
 
 <br/>
 
-### Client Side of RIST System We Built
+### BERIST System We Built
 
 <style>
 table th:nth-of-type(1) {
