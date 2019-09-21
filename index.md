@@ -8,7 +8,7 @@ Real-world tests including those conducted on commercial 5G networks show that B
 
 <br/>
 
-### BERIST System We Built
+### BERIST System We Implemented
 
 <style>
 table th:nth-of-type(1) {
@@ -36,7 +36,7 @@ table th:nth-of-type(1) {
 |SpeedTest|[https://speedtest.net](https://speedtest.net)|[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/client-SpeedTest.net/](https://github.com/BERIST/BERIST.github.io/tree/master/client-SpeedTest.net/)|
 |Server Side| |[https://github.com/BERIST/BERIST.github.io<br/>/tree/master/serverScripts/](https://github.com/BERIST/BERIST.github.io/tree/master/serverScripts/)|
 
-### Non-flooding System We Built
+### Non-flooding Systems We Implemented
 
 <style>
 table th:nth-of-type(1) {
