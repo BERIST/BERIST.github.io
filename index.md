@@ -1,17 +1,5 @@
 # BERIST: BBR-powered Efficient and Robust Internet Speed Test for End Users
 
-test table:
-
-
-
-<tr>
-<td align="center" style="width: 300px;"><b>Description<b></td>
-<td align="center" style="width: 300px;"><b>Source Code<b></td>
-</tr>
-<tr>
-<td rowspan=2 align='center' style="width: 300px;">Operation Inference &  Transformation</td>
-<td align='center' style="width: 300px;">diff_match_patch.py	</td>
-</tr>
 
 
 ### Introduction
@@ -38,7 +26,7 @@ Real-world tests including those conducted on commercial 5G networks show that B
 
 <style>
 table th:nth-of-type(1) {
-    width: 100px;
+    width: 150px;
 }
 table th:nth-of-type(2) {
     width: 150px;
