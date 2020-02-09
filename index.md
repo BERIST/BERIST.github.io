@@ -13,22 +13,12 @@ Real-world tests including those conducted on commercial 5G networks show that B
 <style>
 table th:nth-of-type(1) {
     width: 100px;
-    max-width:100px;
-    min-width:100px;
 }
-</style>
-<style>
 table th:nth-of-type(2) {
     width: 150px;
-    max-width:150px;
-    min-width:150px;
 }
-</style>
-<style>
 table th:nth-of-type(3) {
     width: 150px;
-    max-width:150px;
-    min-width:150px;
 }
 </style>
 
@@ -52,23 +42,6 @@ table th:nth-of-type(3) {
 
 ### Non-flooding Systems We Implement
 
-<style>
-table th:nth-of-type(1) {
-    width: 100px;
-    max-width:100px;
-    min-width:100px;
-}
-table th:nth-of-type(2) {
-    width: 150px;
-    max-width:150px;
-    min-width:150px;
-}
-table th:nth-of-type(3) {
-    width: 150px;
-    max-width:150px;
-    min-width:150px;
-}
-</style>
 
 |STS|Implementation|
 |:----:|------|
