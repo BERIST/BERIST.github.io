@@ -3,7 +3,7 @@
 test table:
 
 
-<table border="1" align='center'>
+
 <tr>
 <td align="center" style="width: 300px;"><b>Description<b></td>
 <td align="center" style="width: 300px;"><b>Source Code<b></td>
@@ -12,7 +12,7 @@ test table:
 <td rowspan=2 align='center' style="width: 300px;">Operation Inference &  Transformation</td>
 <td align='center' style="width: 300px;">diff_match_patch.py	</td>
 </tr>
-</table>
+
 
 ### Introduction
 Web-based speed test systems (STSes) such as SpeedTest.net are extremely popular. In this paper, we conduct a comprehensive measurement study of commercial STSes, finding that their reported speed is oftentimes inaccurate/inconsistent, that their test duration is typically 10+ seconds, and that their consumed network traffic can reach up to 2 GB over a high-speed access link. We also carefully reverse-engineer their speed test logic, whose many design decisions are found to be ad-hoc and non-adaptive.
